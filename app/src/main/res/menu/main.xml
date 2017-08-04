@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="设置"
+        android:id="@+id/m_settings"/>
+    <item android:title="退出应用"
+        android:id="@+id/m_app_exit"/>
+</menu>

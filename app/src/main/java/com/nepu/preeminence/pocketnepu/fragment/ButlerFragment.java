@@ -9,11 +9,7 @@ import android.view.ViewGroup;
 
 import com.nepu.preeminence.pocketnepu.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link ButlerFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class ButlerFragment extends Fragment {
 
     @Override
