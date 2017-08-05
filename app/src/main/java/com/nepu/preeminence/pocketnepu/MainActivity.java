@@ -25,6 +25,7 @@ import com.nepu.preeminence.pocketnepu.fragment.UserFragment;
 import com.nepu.preeminence.pocketnepu.fragment.WechatFragment;
 import com.nepu.preeminence.pocketnepu.ui.BaseActivity;
 import com.nepu.preeminence.pocketnepu.ui.SettingActivity;
+import com.nepu.preeminence.pocketnepu.utils.L;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -50,6 +51,12 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
 
         initData();
         initView();
+
+        L.d("text");
+        L.i("text");
+        L.e("text");
+        L.w("text");
+
     }
 
     /**
