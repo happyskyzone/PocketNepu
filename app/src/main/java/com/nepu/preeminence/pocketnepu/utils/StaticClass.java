@@ -5,4 +5,7 @@ package com.nepu.preeminence.pocketnepu.utils;
  */
 
 public class StaticClass {
+
+    public static final int HANDLER_SPLASH=0;
+    public static final String SHARE_IS_FIRST_RUN = "isFirstRun";
 }

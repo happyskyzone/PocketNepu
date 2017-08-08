@@ -7,7 +7,7 @@ import android.content.SharedPreferences;
  * Created by Preeminence on 2017/8/4.
  */
 
-public class shareUtils {
+public class ShareUtils {
     public static  final String NAME = "config";
 
     /**

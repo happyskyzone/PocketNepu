@@ -22,8 +22,8 @@ public class BaseActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         ActivityController.add(this);
-        //actionbar显示返回按钮
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+//        //actionbar显示返回按钮
+//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
 
