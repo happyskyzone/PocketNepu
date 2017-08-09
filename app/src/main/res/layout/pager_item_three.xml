@@ -11,6 +11,14 @@
         android:layout_height="wrap_content"
         android:text="Three"
         android:textSize="30sp"/>
+    <Button
+        android:background="@drawable/button_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="进入主页"
+        android:id="@+id/btn_start"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="200dp"/>
 
 
 </LinearLayout>
